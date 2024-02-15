@@ -1,0 +1,16 @@
+body {
+    background-color: lightpink;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+#fortune {
+    font-size: 28pt;
+}
+#fortune-display {
+    font-size: 20px;
+}
